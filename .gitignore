@@ -1,0 +1,12 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+runs/
+env/
+slurm_logs/
+regime_map.csv
+# karst build products
+karst/bin/
+karst/**/*.o
+karst/**/*.a
